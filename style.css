@@ -22,6 +22,7 @@ canvas{
     border: black solid 5px;
     box-shadow: 5px 5px 5px grey ;
     border-radius: 20px;
+    background-color: #C2948A;
 }
 #use{
     margin-top: 10px;
